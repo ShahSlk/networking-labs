@@ -10,7 +10,7 @@ My first Cisco Packet Tracer lab: two PCs connected through a switch, each given
 
 ## Topology
 
-![Topology](screenshot-topology.png)
+![Topology](Screenshot-topology.png)
 
 - 1 switch
 - 2 PCs, each connected to the switch
