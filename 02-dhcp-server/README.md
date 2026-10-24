@@ -10,7 +10,7 @@ A small Cisco Packet Tracer lab where a server hands out IP addresses automatica
 
 ## Topology
 
-![Topology](screenshot-topology.png)
+![Topology](Screenshot-topology.png)
 
 - 1 server (DHCP server)
 - 1 switch
@@ -39,7 +39,7 @@ Subnet mask received by the PCs: `255.255.0.0` (the default in Packet Tracer's D
 
 All four PCs received addresses automatically, from `172.16.1.2` to `172.16.1.5`, and a ping from one PC to another succeeded.
 
-![ipconfig result](screenshot-ipconfig.png)
+![ipconfig result](Screenshot-ipconfig.png)
 
 ## Experiments
 
@@ -52,7 +52,7 @@ I used Packet Tracer's **Simulation mode** with the filter set to DHCP only, the
 3. **Request:** the PC asks to use the offered address
 4. **Acknowledge:** the server confirms and the PC starts using it
 
-![DORA simulation](screenshot-dora.png)
+![DORA simulation](Screenshot-DORA.png)
 
 ### 2. Release and renew
 
