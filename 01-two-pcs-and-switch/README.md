@@ -19,15 +19,15 @@ My first Cisco Packet Tracer lab: two PCs connected through a switch, each given
 
 | Device | IP Address   | Subnet Mask   |
 |--------|--------------|---------------|
-| PC1    | <PC1 IP>     | <subnet mask> |
-| PC2    | <PC2 IP>     | <subnet mask> |
+| PC0    | 192.168.1.1    | 255.255.0.0 |
+| PC1    | 192.168.1.2    | 255.255.0.0 |
 
 ## Configuration Steps
 
 1. Placed a switch and two PCs in Packet Tracer.
 2. Connected each PC to the switch with a cable.
 3. On each PC, opened **Desktop > IP Configuration** and entered a static IP address and subnet mask in the same network.
-4. Opened the command prompt on PC2 and pinged PC1's IP address.
+4. Opened the command prompt on PC1 and pinged PC0's IP address.
 
 ## Result
 
