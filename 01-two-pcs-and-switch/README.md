@@ -10,7 +10,7 @@ My first Cisco Packet Tracer lab: two PCs connected through a switch, each given
 
 ## Topology
 
-![Topology](Screenshot-ping.png)
+![Topology](Screenshot-topology.png)
 
 - 1 switch
 - 2 PCs, each connected to the switch
@@ -33,7 +33,7 @@ My first Cisco Packet Tracer lab: two PCs connected through a switch, each given
 
 The ping from PC2 to PC1 succeeded, so the two PCs can communicate through the switch.
 
-![Ping result](screenshot-ping.png)
+![Ping result](Screenshot-ping.png)
 
 ## What I Learned
 
